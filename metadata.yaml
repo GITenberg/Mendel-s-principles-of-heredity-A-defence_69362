@@ -1,0 +1,52 @@
+_repo: Mendel-s-principles-of-heredity-A-defence_69362
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Bateson, William
+    alias: Bateson, W. (William)
+    birthdate: 1861
+    deathdate: 1926
+    gutenberg_agent_id: '33456'
+    url: http://www.gutenberg.org/2009/agents/33456
+    wikipedia: https://en.wikipedia.org/wiki/William_Bateson
+  - agent_name: Mendel, Gregor
+    aliases:
+    - Mendel, Johann Gregor
+    - Mendel, Gregor Johann
+    - Mendel, J. G. (Johann Gregor)
+    birthdate: 1822
+    deathdate: 1884
+    gutenberg_agent_id: '40855'
+    url: http://www.gutenberg.org/2009/agents/40855
+    wikipedia: https://en.wikipedia.org/wiki/Gregor_Mendel
+description: ''
+gutenberg_issued: '2022-11-16'
+identifiers:
+  gutenberg: '69362'
+  lccn: 02028438
+language: en
+pgterms:marc905: 20070409000120bateson
+pgterms:marc906: '1902'
+pgterms:marc907: GB
+production_note: Thiers Halliwell, ellinora, Bryan Ness and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive/American Libraries.)
+publication_note: 'United Kingdom: University Press,1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Heredity'
+- !lcsh 'Mendel''s law'
+- !lcsh 'Weldon, Walter Frank Raphael. Mendel''s laws of alternative inheritance in
+  peas'
+- !lcsh 'Hybridization'
+- !lcc 'QH'
+- GITenberg
+tableOfContents: Introduction -- Mendel, G. Experiments in plant-hybridisation (tr.
+  of a paper originally published in the Verhandl. Naturf. ver. in Brünn, 1866] --
+  Mendel, G. On hieracium-hybrids obtained by artificial fertilisation [tr. of a paper
+  originally published in the Verhandl. Naturf. ver. in Brünn, 1870] -- A defence
+  of Mendel's principles of heredity [against the criticism of W.F.R. Weldon]
+title: 'Mendel''s principles of heredity: A defence'
+url: http://www.gutenberg.org/ebooks/69362
