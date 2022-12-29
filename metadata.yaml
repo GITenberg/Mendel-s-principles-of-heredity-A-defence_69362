@@ -1,5 +1,8 @@
 _repo: Mendel-s-principles-of-heredity-A-defence_69362
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69362-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Bateson, William
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40855
     wikipedia: https://en.wikipedia.org/wiki/Gregor_Mendel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69362#Mendel-s-principles-of-heredity-A-defence
 gutenberg_issued: '2022-11-16'
 identifiers:
   gutenberg: '69362'
